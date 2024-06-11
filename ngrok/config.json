@@ -14,7 +14,7 @@
     "armv7",
     "i386"
   ],
-  "startup": "system",
+  "startup": "services",
   "boot": "auto",
   "ports": {
     "4040/tcp": "4040"
